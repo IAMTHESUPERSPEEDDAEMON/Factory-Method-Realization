@@ -6,7 +6,7 @@ import app.service.PlaneFactoryService;
 import app.service.TransportFactory;
 import app.view.TransportView;
 
-public class Client {
+public class ClientController {
     private TransportView view;
 
     public void run() {
